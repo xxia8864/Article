@@ -6,7 +6,7 @@ I approach infrastructure with a first-principles mindset:
 	•	Resilience comes from design, not hope.
 	•	Technical debt always comes due — sometimes catastrophically.
 
-Most of the content here originates from real incidents, rebuilds, audits, and large-scale cleanups I’ve performed across industries (retail, law, enterprise SAAS). Topics include:
+Most of the content here originates from real incidents, rebuilds, audits, and large-scale cleanups I’ve performed across industries (retail, law, enterprise SAAS). 
 
 ### Topics I explore here
 - Network architecture and simplification through first principles  
