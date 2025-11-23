@@ -189,27 +189,41 @@ Even in a datacenter-level disaster, offsite disaster recovery is a standard and
 Ownership brings responsibility — but it also brings resilience.
 
 ## 7.SWOT analysis
-
-| Column 1  | Column 2  |
-|:----------|:----------|
-| Strength | Fast deployment and global availability| 
-| | Low upfront cost| 
-| | Elastic compute and easy teardown |
-| Weakness    | Limited control over platform, hardware, and underlay|
-||Most configurations are locked post-deployment|
-||High on-going cost, especially for persistent workloads|
-||Complex and unpredictable billing|
-||Requires deep platform-specific expertise|
-||Visibility is limited, especially during outages|
-||Some native services may bypass internal security standards   |
-| Opportunities   | Fast prototyping and isolated test environments|
-||Disaster recovery with minimal standby cost|
-||Short-term expansion during business spikes (e.g., Black Friday)
-||Temporary workload offloading without new hardware investment
-||Useful for lightweight or low-compliance use cases    |
-| Threats    | Provider can terminate services unilaterally, with short notice|
-||Shared infrastructure (multi-tenancy) increases attack surface|
-||service lifetime is affected by provider-defined lifecycle timelines   |
+<table>
+<tr style="text-align: left;">
+  <th>Strength</th>
+  <th>Fast deployment and global availability<br>
+	Low upfront cost<br>
+	Elastic compute and easy teardown<br>
+</th>
+</tr>
+<tr style="text-align: left;">
+  <td>Weakness</td>
+  <td>Limited control over platform, hardware, and underlay<br>
+	Most configurations are locked post-deployment<br>
+	High on-going cost, especially for persistent workloads<br>
+	Complex and unpredictable billing<br>
+	Requires deep platform-specific expertise<br>
+	Visibility is limited, especially during outages<br>
+	Some native services may bypass internal security standards<br>
+</td>
+</tr>
+<tr style="text-align: left;">
+  <td>Opportunities</td>
+  <td>Fast prototyping and isolated test environments<br>
+	Disaster recovery with minimal standby cost<br>
+Short-term expansion during business spikes (e.g., Black Friday)<br>
+Temporary workload offloading without new hardware investment<br>
+Useful for lightweight or low-compliance use cases<br>
+</td>
+</tr>
+<tr style="text-align: left;">
+  <th>Threats</th>
+  <th>Provider can terminate services unilaterally, with short notice<br>
+Shared infrastructure (multi-tenancy) increases attack surface<br>
+service lifetime is affected by provider-defined lifecycle timelines<br>
+</th>
+</table>
 	
 ## 8.Conclusion
 
@@ -222,4 +236,5 @@ However, for long-term deployments, cloud comes with serious trade-offs. You nee
 Cloud is an emerging platform with the potential to transform how businesses build and run IT. Like any tool, it has strengths and weaknesses.
 
 A good engineer doesn’t blindly follow trends — they choose the right tool for the job, based on what the business actually needs, not what marketing says is the future.
+
 
