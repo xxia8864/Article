@@ -189,7 +189,6 @@ Even in a datacenter-level disaster, offsite disaster recovery is a standard and
 Ownership brings responsibility — but it also brings resilience.
 
 ## 7.SWOT analysis
-<div align="center">
 <table>
 <tr>
   <td>Strength</td>
@@ -225,7 +224,6 @@ Shared infrastructure (multi-tenancy) increases attack surface<br>
 service lifetime is affected by provider-defined lifecycle timelines<br>
 </td>
 </table>
-</div>
 
 ## 8.Conclusion
 
@@ -238,6 +236,7 @@ However, for long-term deployments, cloud comes with serious trade-offs. You nee
 Cloud is an emerging platform with the potential to transform how businesses build and run IT. Like any tool, it has strengths and weaknesses.
 
 A good engineer doesn’t blindly follow trends — they choose the right tool for the job, based on what the business actually needs, not what marketing says is the future.
+
 
 
 
