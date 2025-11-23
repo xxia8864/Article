@@ -189,15 +189,16 @@ Even in a datacenter-level disaster, offsite disaster recovery is a standard and
 Ownership brings responsibility — but it also brings resilience.
 
 ## 7.SWOT analysis
+<div align="center">
 <table>
-<tr style="text-align: left;">
-  <th>Strength</th>
-  <th>Fast deployment and global availability<br>
+<tr>
+  <td>Strength</td>
+  <td>Fast deployment and global availability<br>
 	Low upfront cost<br>
 	Elastic compute and easy teardown<br>
-</th>
+</td>
 </tr>
-<tr style="text-align: left;">
+<tr>
   <td>Weakness</td>
   <td>Limited control over platform, hardware, and underlay<br>
 	Most configurations are locked post-deployment<br>
@@ -208,7 +209,7 @@ Ownership brings responsibility — but it also brings resilience.
 	Some native services may bypass internal security standards<br>
 </td>
 </tr>
-<tr style="text-align: left;">
+<tr>
   <td>Opportunities</td>
   <td>Fast prototyping and isolated test environments<br>
 	Disaster recovery with minimal standby cost<br>
@@ -217,14 +218,15 @@ Temporary workload offloading without new hardware investment<br>
 Useful for lightweight or low-compliance use cases<br>
 </td>
 </tr>
-<tr style="text-align: left;">
-  <th>Threats</th>
-  <th>Provider can terminate services unilaterally, with short notice<br>
+<tr>
+  <td>Threats</td>
+  <td>Provider can terminate services unilaterally, with short notice<br>
 Shared infrastructure (multi-tenancy) increases attack surface<br>
 service lifetime is affected by provider-defined lifecycle timelines<br>
-</th>
+</td>
 </table>
-	
+</div>
+
 ## 8.Conclusion
 
 Cloud is well-suited for short-term deployments and for organizations that don’t have a strong on-prem hardware platform or only need a few lightweight applications. For long-running and predictable workloads, cost and control considerations often push the balance toward on-prem or hybrid designs.
@@ -236,5 +238,6 @@ However, for long-term deployments, cloud comes with serious trade-offs. You nee
 Cloud is an emerging platform with the potential to transform how businesses build and run IT. Like any tool, it has strengths and weaknesses.
 
 A good engineer doesn’t blindly follow trends — they choose the right tool for the job, based on what the business actually needs, not what marketing says is the future.
+
 
 
