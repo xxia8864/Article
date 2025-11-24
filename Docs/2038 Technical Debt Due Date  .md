@@ -3,6 +3,7 @@
 ## What Is Y2K38?
 
 Most people still remember the Year 2000 problem — “Y2K.”
+
 For decades, computers stored years using two digits (“98” “99”, “00”) to save memory. When the calendar rolled from 1999 → 2000, many systems would interpret “00” as 1900, not 2000.
 
 Governments and corporations spent hundreds of billions of dollars assessing, patching, replacing, and testing systems.
@@ -390,5 +391,6 @@ There will be failures, disruptions, and painful moments.
 But like every challenge before it, we will learn from it, adapt, and move forward.
 Technology has always advanced through breaking points.
 Y2K38 is just another one — a moment where the past finally demands payment so the future can be rebuilt on stronger foundations.
+
 
 
