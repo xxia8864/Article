@@ -2,3 +2,4 @@
 - Less is more. Boring tech is good tech.
 - Hope is not a strategy. Always have plan B.
 - Always question vendors.
+- Good networks stay invisible.
