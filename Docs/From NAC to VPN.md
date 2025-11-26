@@ -87,4 +87,4 @@ This approach removes the operational burden of 802.1X and its failure modes.
 
 It also eliminates the licensing and maintenance cost of NAC platforms like ClearPass/ISE, which are some of the most expensive pieces of the access layer.
 
-![Figure_1](Image/NAC2VPN_Fiigure_1.png)
+![Figure_1](Image/NAC2VPN_Figure_1.png)
