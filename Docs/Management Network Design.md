@@ -30,7 +30,7 @@ Instead, always put management interfaces in a dedicated management segment. Use
 -	Dynamic source tracking (VPN IP pools, temporary access, etc.)
 
 This approach gives you both security and survivability—the two things you’ll desperately need when things go wrong.
-##2. Build a Layer 2 Bridge Between Data Centers
+## 2. Build a Layer 2 Bridge Between Data Centers
 One of the most effective ways to increase the survivability of your management network is to extend Layer 2 connectivity across data centers. This ensures the management segment remains reachable—as long as at least one site is still operational.
 
 Avoid overlay-based technologies like VXLAN or SDN-based L2 stretch, as these often rely on control planes or orchestration systems that may fail during the same outage. Instead, use native, reliable Layer 2 bridging technologies such as VPLS or ELAN, which are simpler, control-plane independent, and support VLAN tagging. That means you can piggyback your management VLANs onto existing inter-DC circuits without needing additional infrastructure.
