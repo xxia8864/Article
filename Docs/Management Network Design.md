@@ -73,7 +73,7 @@ When everything else is broken, the console server becomes your last control poi
 ## 4. Keep Communication Open
 In the Facebook outage, even WhatsApp went down—and that happened to be their internal communication tool. It was the equivalent of going to war and losing your radio on day one. During a crisis, you can’t afford to lose contact with your own team.
 
-Your NOC or incident response team must have a communication path that is independent of the company network. A basic cellphone is often enough, but it must:
+NOC or incident response team must have a communication path that is independent of the company network. A basic cellphone is often enough, but it must:
 -	Be charged and reachable at all times
 -	Be physically stored in the NOC
 -	Have the phone numbers of all key personnel preloaded
