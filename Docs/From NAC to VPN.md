@@ -1,6 +1,6 @@
 # From NAC to VPN: A Cleaner Model for Secure Network Access
 
-## Introduction 
+## Incident 
 
 A switch malfunction flooded the ClearPass server with excessive logs, exhausting all disk space.
 
