@@ -9,4 +9,4 @@
 >* [From NAC to VPN](https://github.com/xxia8864/Article/blob/main/Docs/From%20NAC%20to%20VPN.md)
 - Misc
 >* [2038 Technical Debt Due Date](https://github.com/xxia8864/Article/blob/main/Docs/2038%20Technical%20Debt%20Due%20Date.md)
->* [The Real Gap for LLMs Isn’t Benchmarks — It’s value to uers](https://github.com/xxia8864/Article/blob/main/Docs/LLM%20Business%20direction.md）
+>* [The Real Gap for LLMs Isn’t Benchmarks — It’s value to uers](https://github.com/xxia8864/Article/blob/main/Docs/LLM%20Business%20direction.md)
