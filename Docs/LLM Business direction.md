@@ -1,4 +1,4 @@
-# The Real Gap for LLMs Isn’t Benchmarks — It’s value to users
+# The Real Gap for LLMs Isn’t Benchmarks — It’s Everyday Value
 
 *Note: This article is AI assisted. As a non-native English speaker, this is exactly the kind of capability barrier LLMs solve.*
 
