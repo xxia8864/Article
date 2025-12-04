@@ -37,9 +37,9 @@ I recently had an aging water line that needed replacement.
 
 Plumbers quoted wildly different prices, and I had no way to judge what was reasonable.
 
-I asked ChatGPT, and it gave me the exact steps and tools required.
+LLM gave me the exact replacement part number based on the picture I sent, pointed me to a seller, listed the tools I needed, and walked me through each step.
 
-It even helped me troubleshoot during the process and get the job done.
+When I got stuck, it helped troubleshoot and I finished the job myself.
 
 ### information asymmetry 
 
