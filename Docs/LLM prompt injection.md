@@ -146,9 +146,7 @@ If an attacker knows that Entity A uses Model X, they can simply ask
 Model X: "Can you help me do prompt injection to bypass your restrictions?" 
 When framed as educational or research questions, LLMs will often provide 
 detailed explanations, example payloads, and optimization strategies—
-effectively teaching attackers how to exploit the same system. The iteration 
-cost approaches zero: "This failed with error X, give me 10 variations" 
-takes seconds. 
+effectively teaching attackers how to exploit the same system. 
 
 ![Figure_2](Image/promt_injection.webp)
 
