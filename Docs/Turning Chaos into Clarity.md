@@ -57,7 +57,7 @@ The new architecture follows a hub-and-spoke model:
 
 This modular design supports fault isolation, growth, and control.
 
-![figure_3](image/chaos_3.png)
+![figure_3](Image/chaos_3.png)
 
 ### **Segment Design**
 
@@ -73,7 +73,7 @@ Each business segment includes:
   - Contains OSPF flapping
   - Controls cross-segment access
 
-![figure_4](image/chaos_4.png)
+![figure_4](Image/chaos_4.png)
 
 ### **BGP for External Connectivity**
 
@@ -86,7 +86,7 @@ All cloud, SD-WAN, and vendor connections were migrated to a BGP confederation m
 
 This structure ensures clean external visibility and local autonomy, with failover between data centers when needed.
 
-![Figure_5](image/chaos_5.png)
+![Figure_5](Image/chaos_5.png)
 
 ## **Step 3: Building the Hub Network**
 
@@ -110,7 +110,7 @@ Previously, management interfaces were scattered across segments. I rebuilt a de
 This vastly improved troubleshooting, monitoring, and operational control.
  The starting point after Hub and management network are built. 
 
-![Figure_6](image/chaos_6.png)
+![Figure_6](Image/chaos_6.png)
 
 ## **Step 5: Migration by Opportunity**
 
